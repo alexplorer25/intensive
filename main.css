@@ -4,3 +4,11 @@
     background-color: #999;
     font-size: 32px;
 }
+
+.main {
+    background-color: lightgreen;
+    padding: 100px;
+    font-size: 38px;
+    color: #fff;
+    text-align: center;
+}
